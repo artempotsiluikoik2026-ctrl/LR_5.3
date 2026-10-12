@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 5.3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E3B4254-E33B-AAC6-0A4B-5012EA3DEF17}|test5.3\\test5.3.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 5.3\\test5.3\\test5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1E3B4254-E33B-AAC6-0A4B-5012EA3DEF17}|test5.3\\test5.3.vcxproj|solutionrelative:test5.3\\test5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADA3FBD3-E42A-4DCC-A935-7FA660B82CB8}|\u041B\u0420 5.3\\\u041B\u0420 5.3.vcxproj|C:\\Users\\potsi\\source\\repos\\\u041B\u0420 5.3\\\u041B\u0420 5.3\\\u041B\u0420 5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{ADA3FBD3-E42A-4DCC-A935-7FA660B82CB8}|\u041B\u0420 5.3\\\u041B\u0420 5.3.vcxproj|solutionrelative:\u041B\u0420 5.3\\\u041B\u0420 5.3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "test5.3.cpp",
+              "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 5.3\\test5.3\\test5.3.cpp",
+              "RelativeDocumentMoniker": "test5.3\\test5.3.cpp",
+              "ToolTip": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 5.3\\test5.3\\test5.3.cpp",
+              "RelativeToolTip": "test5.3\\test5.3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-12T18:50:53.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "\u041B\u0420 5.3.cpp",
               "DocumentMoniker": "C:\\Users\\potsi\\source\\repos\\\u041B\u0420 5.3\\\u041B\u0420 5.3\\\u041B\u0420 5.3.cpp",
               "RelativeDocumentMoniker": "\u041B\u0420 5.3\\\u041B\u0420 5.3.cpp",
